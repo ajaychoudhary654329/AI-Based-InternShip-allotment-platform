@@ -467,7 +467,7 @@ const LandingPage = ({ onGetStarted }) => {
             Yuva Setu <span className="rocket"> 🚀</span>
           </h1>
           <p className="hero-subtitle">
-            AI-Powered platform connecting students with perfect Internship Opportunities
+            AI-Powered platform alloting best Internships to Students in India
           </p>
           <div className="hero-buttons">
             <button className="btn-get-started" onClick={onGetStarted}>
